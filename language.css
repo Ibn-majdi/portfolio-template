@@ -1,0 +1,18 @@
+@font-face{font-family:'IBM Plex Sans Arabic';font-weight:400;font-display:swap;src:url('assets/fonts/ibm-plex-arabic-400.ttf')}
+@font-face{font-family:'IBM Plex Sans Arabic';font-weight:600;font-display:swap;src:url('assets/fonts/ibm-plex-arabic-600.ttf')}
+/* Language controls shared by both editions. */
+.language-link{font:500 12px/1.4 Arial,sans-serif;border:1px solid #ffffff40;padding:7px 10px;border-radius:999px;white-space:nowrap;color:#fff;flex-shrink:0}
+.language-link:hover,.language-link:focus-visible{border-color:var(--accent);color:var(--accent)}
+.entry-language{position:absolute;z-index:4;inset-inline-start:8%;top:16%;display:flex;gap:6px;padding:5px;border:1px solid #ffffff40;border-radius:999px;background:#08080baa;backdrop-filter:blur(14px)}
+.entry-language button{font:500 14px/1.5 Arial,sans-serif;min-width:92px;min-height:42px;padding:8px 17px;border:0;border-radius:999px;color:#fff;background:transparent;cursor:pointer}
+.entry-language button[aria-pressed=true]{background:var(--accent);color:#052e20}
+.entry-language button:focus-visible{outline:2px solid #fff;outline-offset:3px}
+.entry-screen[dir=rtl] .entry-button{left:auto;right:8%;text-align:right}
+.entry-screen[dir=rtl] .entry-name{font-family:'IBM Plex Sans Arabic',Tahoma,Arial,sans-serif;letter-spacing:0;line-height:1.1;font-size:clamp(88px,12vw,180px)}
+.entry-screen[dir=rtl] .entry-top,.entry-screen[dir=rtl] .entry-bottom,.entry-screen[dir=rtl] .entry-action{font-family:'IBM Plex Sans Arabic',Tahoma,Arial,sans-serif;letter-spacing:0}
+.entry-screen[dir=rtl] .entry-image{right:auto;left:0}
+.entry-screen[dir=rtl] .entry-shade{background:linear-gradient(270deg,#050505 0%,#050505e6 22%,#05050566 58%,#0001),linear-gradient(0deg,#0008,transparent 35%)}
+.entry-screen[dir=rtl] .entry-top,.entry-screen[dir=rtl] .entry-bottom{font-size:12px}
+.entry-screen[dir=rtl] .entry-action{font-size:17px}
+@media(max-width:850px){nav{gap:12px}.language-link{font-size:11px;padding:7px 9px}}
+@media(max-width:540px){.entry-language{inset-inline-start:8%;top:13%}.entry-language button{min-width:85px;font-size:13px}.entry-screen[dir=rtl] .entry-button{right:9%;left:auto}.entry-screen[dir=rtl] .entry-name{font-size:clamp(82px,24vw,130px)}.entry-screen[dir=rtl] .entry-shade{background:linear-gradient(0deg,#000e 0%,#0009 45%,#0002 85%)}.entry-screen[dir=rtl] .entry-top,.entry-screen[dir=rtl] .entry-bottom{font-size:10px}.entry-screen[dir=rtl] .entry-action{font-size:15px}}
