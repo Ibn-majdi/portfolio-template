@@ -38,4 +38,4 @@ in the HTML (`للتخصيص` in the Arabic pages).
 - `projects.json`, `projects-ar.json` — the project data the viewer reads
 - `assets/` — images, video, and fonts (IBM Plex Sans Arabic, OFL licensed)
 
-Hosted with GitHub Pages.
+The site is plain static HTML/CSS/JS with no build step. To publish your copy, enable GitHub Pages in your repository settings (Settings → Pages, branch: main, folder: / (root)).
