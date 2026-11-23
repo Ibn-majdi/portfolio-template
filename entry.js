@@ -1,5 +1,4 @@
 /* Entry language choice. The English and Arabic editions are separate documents. */
-/* PERSONALIZE: the name, city, and taglines inside choose() below — keep both languages in sync. */
 (() => {
  const entry=document.querySelector('.entry-screen');
  if(!entry||!entry.showModal)return;
@@ -18,10 +17,10 @@
   entry.querySelector('.entry-name').innerHTML=ar?'<span>اسمك</span><span>هنا<span class="entry-dot">.</span></span>':'<span>YOUR</span><span>NAME<span class="entry-dot">.</span></span>';
   entry.querySelector('.entry-action>span:last-child').textContent=ar?'اكتشف الرؤية':'Explore Vision';
   button.setAttribute('aria-label',ar?'اكتشف الرؤية':'Explore Vision');
-  entry.setAttribute('aria-label',ar?'اختر اللغة واستكشف أعمالك':'Choose a language and explore Your Name’s portfolio');
-  entry.querySelector('.entry-top>span:first-child').textContent=ar?'اسمك':'YOUR NAME';
-  entry.querySelector('.entry-top>span:last-child').textContent=ar?'المدينة، البلد':'CITY, COUNTRY';
-  entry.querySelector('.entry-bottom>span:first-child').textContent=ar?'بحث / إبداع / تنظيم':'RESEARCH / CREATION / SYSTEMS';
+  entry.setAttribute('aria-label',ar?'اختر اللغة واستكشف أعمال اسمك هنا':'Choose a language and explore your portfolio');
+  entry.querySelector('.entry-top>span:first-child').textContent=ar?'اسمك هنا':'YOUR NAME';
+  entry.querySelector('.entry-top>span:last-child').textContent=ar?'موقعك':'YOUR LOCATION';
+  entry.querySelector('.entry-bottom>span:first-child').textContent=ar?'ملف أعمالك':'YOUR PORTFOLIO';
   entry.querySelector('.entry-bottom>span:last-child').textContent=ar?'ابدأ من هنا':'CLICK TO EXPLORE';
   entry.querySelector('.entry-circle').textContent=ar?'↖':'↗';
  }

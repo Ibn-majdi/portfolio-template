@@ -1,3 +1,5 @@
 document.getElementById('year').textContent=new Date().getFullYear();
 const observer=new IntersectionObserver(entries=>entries.forEach(({isIntersecting,target})=>{if(isIntersecting){target.classList.add('show');observer.unobserve(target)}}),{threshold:.12});document.querySelectorAll('.reveal').forEach(el=>observer.observe(el));
 const menu=document.querySelector('.menu'),mobile=document.querySelector('.mobile-links');menu.addEventListener('click',()=>{const open=mobile.classList.toggle('open');menu.setAttribute('aria-expanded',open);menu.textContent=open?'×':'☰'});mobile.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>{mobile.classList.remove('open');menu.setAttribute('aria-expanded','false');menu.textContent='☰'}));
+
+document.querySelectorAll('[data-placeholder="link"]').forEach(a=>a.addEventListener('click',e=>e.preventDefault()));

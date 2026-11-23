@@ -1,1 +1,327 @@
-[{"id":"project-one","title":"المشروع الأول","description":"اكتب هنا وصف المشروع: الفكرة، وطريقة عملك، وما سلّمته في النهاية.","media":[{"type":"image","src":"assets/work/project-one/01.jpg","alt":"من المشروع الأول، العمل ١"},{"type":"image","src":"assets/work/project-one/02.jpg","alt":"من المشروع الأول، العمل ٢"},{"type":"image","src":"assets/work/project-one/03.jpg","alt":"من المشروع الأول، العمل ٣"},{"type":"image","src":"assets/work/project-one/04.jpg","alt":"من المشروع الأول، العمل ٤"}]},{"id":"project-two","title":"المشروع الثاني","description":"اكتب هنا وصف المشروع: الفكرة، وطريقة عملك، وما سلّمته في النهاية.","media":[{"type":"image","src":"assets/work/project-two/01.jpg","alt":"من المشروع الثاني، العمل ١"},{"type":"image","src":"assets/work/project-two/02.jpg","alt":"من المشروع الثاني، العمل ٢"},{"type":"image","src":"assets/work/project-two/03.jpg","alt":"من المشروع الثاني، العمل ٣"}]},{"id":"project-three","title":"المشروع الثالث","description":"اكتب هنا وصف المشروع: الفكرة، وطريقة عملك، وما سلّمته في النهاية.","media":[{"type":"image","src":"assets/work/project-three/01.jpg","alt":"من المشروع الثالث، العمل ١"},{"type":"image","src":"assets/work/project-three/02.jpg","alt":"من المشروع الثالث، العمل ٢"}]},{"id":"project-four","title":"المشروع الرابع","description":"مشروع فيديو. استبدل الملف assets/work/project-four/01.mp4 وصورته بفيلمك الخاص.","media":[{"type":"video","src":"assets/work/project-four/01.mp4","poster":"assets/work/project-four/01-poster.jpg"}]}]
+[
+  {
+    "id": "project-01",
+    "title": "مشروع 01",
+    "description": "أضف وصف المشروع.",
+    "role": "دورك",
+    "media": [
+      {
+        "type": "image",
+        "src": "assets/placeholder.svg",
+        "alt": "أضف صور المشروع"
+      },
+      {
+        "type": "image",
+        "src": "assets/cover-placeholder.svg",
+        "alt": "أضف صور المشروع"
+      }
+    ],
+    "caseStudy": {
+      "title": "تفاصيل المشروع",
+      "idea": "صف الفكرة.",
+      "research": "أضف البحث.",
+      "execution": "صف التنفيذ.",
+      "tools": "أضف الأدوات."
+    }
+  },
+  {
+    "id": "project-02",
+    "title": "مشروع 02",
+    "description": "أضف وصف المشروع.",
+    "role": "دورك",
+    "media": [
+      {
+        "type": "image",
+        "src": "assets/placeholder.svg",
+        "alt": "أضف صور المشروع"
+      },
+      {
+        "type": "image",
+        "src": "assets/cover-placeholder.svg",
+        "alt": "أضف صور المشروع"
+      }
+    ],
+    "caseStudy": {
+      "title": "تفاصيل المشروع",
+      "idea": "صف الفكرة.",
+      "research": "أضف البحث.",
+      "execution": "صف التنفيذ.",
+      "tools": "أضف الأدوات."
+    }
+  },
+  {
+    "id": "project-03",
+    "title": "مشروع 03",
+    "description": "أضف وصف المشروع.",
+    "role": "دورك",
+    "media": [
+      {
+        "type": "image",
+        "src": "assets/placeholder.svg",
+        "alt": "أضف صور المشروع"
+      },
+      {
+        "type": "image",
+        "src": "assets/cover-placeholder.svg",
+        "alt": "أضف صور المشروع"
+      }
+    ],
+    "caseStudy": {
+      "title": "تفاصيل المشروع",
+      "idea": "صف الفكرة.",
+      "research": "أضف البحث.",
+      "execution": "صف التنفيذ.",
+      "tools": "أضف الأدوات."
+    }
+  },
+  {
+    "id": "project-04",
+    "title": "مشروع 04",
+    "description": "أضف وصف المشروع.",
+    "role": "دورك",
+    "media": [
+      {
+        "type": "image",
+        "src": "assets/placeholder.svg",
+        "alt": "أضف صور المشروع"
+      },
+      {
+        "type": "image",
+        "src": "assets/cover-placeholder.svg",
+        "alt": "أضف صور المشروع"
+      }
+    ],
+    "caseStudy": {
+      "title": "تفاصيل المشروع",
+      "idea": "صف الفكرة.",
+      "research": "أضف البحث.",
+      "execution": "صف التنفيذ.",
+      "tools": "أضف الأدوات."
+    }
+  },
+  {
+    "id": "project-05",
+    "title": "مشروع 05",
+    "description": "أضف وصف المشروع.",
+    "role": "دورك",
+    "media": [
+      {
+        "type": "image",
+        "src": "assets/placeholder.svg",
+        "alt": "أضف صور المشروع"
+      },
+      {
+        "type": "image",
+        "src": "assets/cover-placeholder.svg",
+        "alt": "أضف صور المشروع"
+      }
+    ],
+    "caseStudy": {
+      "title": "تفاصيل المشروع",
+      "idea": "صف الفكرة.",
+      "research": "أضف البحث.",
+      "execution": "صف التنفيذ.",
+      "tools": "أضف الأدوات."
+    }
+  },
+  {
+    "id": "project-06",
+    "title": "مشروع 06",
+    "description": "أضف وصف المشروع.",
+    "role": "دورك",
+    "media": [
+      {
+        "type": "image",
+        "src": "assets/placeholder.svg",
+        "alt": "أضف صور المشروع"
+      },
+      {
+        "type": "image",
+        "src": "assets/cover-placeholder.svg",
+        "alt": "أضف صور المشروع"
+      }
+    ],
+    "caseStudy": {
+      "title": "تفاصيل المشروع",
+      "idea": "صف الفكرة.",
+      "research": "أضف البحث.",
+      "execution": "صف التنفيذ.",
+      "tools": "أضف الأدوات."
+    }
+  },
+  {
+    "id": "project-07",
+    "title": "مشروع 07",
+    "description": "أضف وصف المشروع.",
+    "role": "دورك",
+    "media": [
+      {
+        "type": "image",
+        "src": "assets/placeholder.svg",
+        "alt": "أضف صور المشروع"
+      },
+      {
+        "type": "image",
+        "src": "assets/cover-placeholder.svg",
+        "alt": "أضف صور المشروع"
+      }
+    ],
+    "caseStudy": {
+      "title": "تفاصيل المشروع",
+      "idea": "صف الفكرة.",
+      "research": "أضف البحث.",
+      "execution": "صف التنفيذ.",
+      "tools": "أضف الأدوات."
+    }
+  },
+  {
+    "id": "project-08",
+    "title": "مشروع 08",
+    "description": "أضف وصف المشروع.",
+    "role": "دورك",
+    "media": [
+      {
+        "type": "image",
+        "src": "assets/placeholder.svg",
+        "alt": "أضف صور المشروع"
+      },
+      {
+        "type": "image",
+        "src": "assets/cover-placeholder.svg",
+        "alt": "أضف صور المشروع"
+      }
+    ],
+    "caseStudy": {
+      "title": "تفاصيل المشروع",
+      "idea": "صف الفكرة.",
+      "research": "أضف البحث.",
+      "execution": "صف التنفيذ.",
+      "tools": "أضف الأدوات."
+    }
+  },
+  {
+    "id": "project-09",
+    "title": "مشروع 09",
+    "description": "أضف وصف المشروع.",
+    "role": "دورك",
+    "media": [
+      {
+        "type": "image",
+        "src": "assets/placeholder.svg",
+        "alt": "أضف صور المشروع"
+      },
+      {
+        "type": "image",
+        "src": "assets/cover-placeholder.svg",
+        "alt": "أضف صور المشروع"
+      }
+    ],
+    "caseStudy": {
+      "title": "تفاصيل المشروع",
+      "idea": "صف الفكرة.",
+      "research": "أضف البحث.",
+      "execution": "صف التنفيذ.",
+      "tools": "أضف الأدوات."
+    }
+  },
+  {
+    "id": "project-10",
+    "title": "مشروع 10",
+    "description": "أضف وصف المشروع.",
+    "role": "دورك",
+    "media": [
+      {
+        "type": "image",
+        "src": "assets/placeholder.svg",
+        "alt": "أضف صور المشروع"
+      },
+      {
+        "type": "image",
+        "src": "assets/cover-placeholder.svg",
+        "alt": "أضف صور المشروع"
+      }
+    ],
+    "caseStudy": {
+      "title": "تفاصيل المشروع",
+      "idea": "صف الفكرة.",
+      "research": "أضف البحث.",
+      "execution": "صف التنفيذ.",
+      "tools": "أضف الأدوات."
+    }
+  },
+  {
+    "id": "project-11",
+    "title": "مشروع 11",
+    "description": "أضف وصف المشروع.",
+    "role": "دورك",
+    "media": [
+      {
+        "type": "image",
+        "src": "assets/placeholder.svg",
+        "alt": "أضف صور المشروع"
+      },
+      {
+        "type": "image",
+        "src": "assets/cover-placeholder.svg",
+        "alt": "أضف صور المشروع"
+      }
+    ],
+    "caseStudy": {
+      "title": "تفاصيل المشروع",
+      "idea": "صف الفكرة.",
+      "research": "أضف البحث.",
+      "execution": "صف التنفيذ.",
+      "tools": "أضف الأدوات."
+    }
+  },
+  {
+    "id": "project-12",
+    "title": "مشروع 12",
+    "description": "أضف وصف المشروع.",
+    "role": "دورك",
+    "media": [
+      {
+        "type": "image",
+        "src": "assets/placeholder.svg",
+        "alt": "أضف صور المشروع"
+      },
+      {
+        "type": "image",
+        "src": "assets/cover-placeholder.svg",
+        "alt": "أضف صور المشروع"
+      }
+    ],
+    "caseStudy": {
+      "title": "تفاصيل المشروع",
+      "idea": "صف الفكرة.",
+      "research": "أضف البحث.",
+      "execution": "صف التنفيذ.",
+      "tools": "أضف الأدوات."
+    }
+  },
+  {
+    "id": "project-13",
+    "title": "مشروع 13",
+    "description": "أضف وصف المشروع.",
+    "role": "دورك",
+    "media": [
+      {
+        "type": "image",
+        "src": "assets/placeholder.svg",
+        "alt": "أضف صور المشروع"
+      },
+      {
+        "type": "image",
+        "src": "assets/cover-placeholder.svg",
+        "alt": "أضف صور المشروع"
+      }
+    ],
+    "caseStudy": {
+      "title": "تفاصيل المشروع",
+      "idea": "صف الفكرة.",
+      "research": "أضف البحث.",
+      "execution": "صف التنفيذ.",
+      "tools": "أضف الأدوات."
+    }
+  }
+]

@@ -1,1 +1,327 @@
-[{"id":"project-one","title":"Project One","description":"Describe the project here: the brief, your approach, and what you delivered.","media":[{"type":"image","src":"assets/work/project-one/01.jpg","alt":"Project One visual 1"},{"type":"image","src":"assets/work/project-one/02.jpg","alt":"Project One visual 2"},{"type":"image","src":"assets/work/project-one/03.jpg","alt":"Project One visual 3"},{"type":"image","src":"assets/work/project-one/04.jpg","alt":"Project One visual 4"}]},{"id":"project-two","title":"Project Two","description":"Describe the project here: the brief, your approach, and what you delivered.","media":[{"type":"image","src":"assets/work/project-two/01.jpg","alt":"Project Two visual 1"},{"type":"image","src":"assets/work/project-two/02.jpg","alt":"Project Two visual 2"},{"type":"image","src":"assets/work/project-two/03.jpg","alt":"Project Two visual 3"}]},{"id":"project-three","title":"Project Three","description":"Describe the project here: the brief, your approach, and what you delivered.","media":[{"type":"image","src":"assets/work/project-three/01.jpg","alt":"Project Three visual 1"},{"type":"image","src":"assets/work/project-three/02.jpg","alt":"Project Three visual 2"}]},{"id":"project-four","title":"Project Four","description":"A video project. Replace assets/work/project-four/01.mp4 and its poster with your own film.","media":[{"type":"video","src":"assets/work/project-four/01.mp4","poster":"assets/work/project-four/01-poster.jpg"}]}]
+[
+  {
+    "id": "project-01",
+    "title": "Project 01",
+    "description": "Add a project description.",
+    "role": "Your role",
+    "media": [
+      {
+        "type": "image",
+        "src": "assets/placeholder.svg",
+        "alt": "Add project media"
+      },
+      {
+        "type": "image",
+        "src": "assets/cover-placeholder.svg",
+        "alt": "Add project media"
+      }
+    ],
+    "caseStudy": {
+      "title": "Your case study",
+      "idea": "Describe the idea.",
+      "research": "Add your research.",
+      "execution": "Describe the execution.",
+      "tools": "List your tools."
+    }
+  },
+  {
+    "id": "project-02",
+    "title": "Project 02",
+    "description": "Add a project description.",
+    "role": "Your role",
+    "media": [
+      {
+        "type": "image",
+        "src": "assets/placeholder.svg",
+        "alt": "Add project media"
+      },
+      {
+        "type": "image",
+        "src": "assets/cover-placeholder.svg",
+        "alt": "Add project media"
+      }
+    ],
+    "caseStudy": {
+      "title": "Your case study",
+      "idea": "Describe the idea.",
+      "research": "Add your research.",
+      "execution": "Describe the execution.",
+      "tools": "List your tools."
+    }
+  },
+  {
+    "id": "project-03",
+    "title": "Project 03",
+    "description": "Add a project description.",
+    "role": "Your role",
+    "media": [
+      {
+        "type": "image",
+        "src": "assets/placeholder.svg",
+        "alt": "Add project media"
+      },
+      {
+        "type": "image",
+        "src": "assets/cover-placeholder.svg",
+        "alt": "Add project media"
+      }
+    ],
+    "caseStudy": {
+      "title": "Your case study",
+      "idea": "Describe the idea.",
+      "research": "Add your research.",
+      "execution": "Describe the execution.",
+      "tools": "List your tools."
+    }
+  },
+  {
+    "id": "project-04",
+    "title": "Project 04",
+    "description": "Add a project description.",
+    "role": "Your role",
+    "media": [
+      {
+        "type": "image",
+        "src": "assets/placeholder.svg",
+        "alt": "Add project media"
+      },
+      {
+        "type": "image",
+        "src": "assets/cover-placeholder.svg",
+        "alt": "Add project media"
+      }
+    ],
+    "caseStudy": {
+      "title": "Your case study",
+      "idea": "Describe the idea.",
+      "research": "Add your research.",
+      "execution": "Describe the execution.",
+      "tools": "List your tools."
+    }
+  },
+  {
+    "id": "project-05",
+    "title": "Project 05",
+    "description": "Add a project description.",
+    "role": "Your role",
+    "media": [
+      {
+        "type": "image",
+        "src": "assets/placeholder.svg",
+        "alt": "Add project media"
+      },
+      {
+        "type": "image",
+        "src": "assets/cover-placeholder.svg",
+        "alt": "Add project media"
+      }
+    ],
+    "caseStudy": {
+      "title": "Your case study",
+      "idea": "Describe the idea.",
+      "research": "Add your research.",
+      "execution": "Describe the execution.",
+      "tools": "List your tools."
+    }
+  },
+  {
+    "id": "project-06",
+    "title": "Project 06",
+    "description": "Add a project description.",
+    "role": "Your role",
+    "media": [
+      {
+        "type": "image",
+        "src": "assets/placeholder.svg",
+        "alt": "Add project media"
+      },
+      {
+        "type": "image",
+        "src": "assets/cover-placeholder.svg",
+        "alt": "Add project media"
+      }
+    ],
+    "caseStudy": {
+      "title": "Your case study",
+      "idea": "Describe the idea.",
+      "research": "Add your research.",
+      "execution": "Describe the execution.",
+      "tools": "List your tools."
+    }
+  },
+  {
+    "id": "project-07",
+    "title": "Project 07",
+    "description": "Add a project description.",
+    "role": "Your role",
+    "media": [
+      {
+        "type": "image",
+        "src": "assets/placeholder.svg",
+        "alt": "Add project media"
+      },
+      {
+        "type": "image",
+        "src": "assets/cover-placeholder.svg",
+        "alt": "Add project media"
+      }
+    ],
+    "caseStudy": {
+      "title": "Your case study",
+      "idea": "Describe the idea.",
+      "research": "Add your research.",
+      "execution": "Describe the execution.",
+      "tools": "List your tools."
+    }
+  },
+  {
+    "id": "project-08",
+    "title": "Project 08",
+    "description": "Add a project description.",
+    "role": "Your role",
+    "media": [
+      {
+        "type": "image",
+        "src": "assets/placeholder.svg",
+        "alt": "Add project media"
+      },
+      {
+        "type": "image",
+        "src": "assets/cover-placeholder.svg",
+        "alt": "Add project media"
+      }
+    ],
+    "caseStudy": {
+      "title": "Your case study",
+      "idea": "Describe the idea.",
+      "research": "Add your research.",
+      "execution": "Describe the execution.",
+      "tools": "List your tools."
+    }
+  },
+  {
+    "id": "project-09",
+    "title": "Project 09",
+    "description": "Add a project description.",
+    "role": "Your role",
+    "media": [
+      {
+        "type": "image",
+        "src": "assets/placeholder.svg",
+        "alt": "Add project media"
+      },
+      {
+        "type": "image",
+        "src": "assets/cover-placeholder.svg",
+        "alt": "Add project media"
+      }
+    ],
+    "caseStudy": {
+      "title": "Your case study",
+      "idea": "Describe the idea.",
+      "research": "Add your research.",
+      "execution": "Describe the execution.",
+      "tools": "List your tools."
+    }
+  },
+  {
+    "id": "project-10",
+    "title": "Project 10",
+    "description": "Add a project description.",
+    "role": "Your role",
+    "media": [
+      {
+        "type": "image",
+        "src": "assets/placeholder.svg",
+        "alt": "Add project media"
+      },
+      {
+        "type": "image",
+        "src": "assets/cover-placeholder.svg",
+        "alt": "Add project media"
+      }
+    ],
+    "caseStudy": {
+      "title": "Your case study",
+      "idea": "Describe the idea.",
+      "research": "Add your research.",
+      "execution": "Describe the execution.",
+      "tools": "List your tools."
+    }
+  },
+  {
+    "id": "project-11",
+    "title": "Project 11",
+    "description": "Add a project description.",
+    "role": "Your role",
+    "media": [
+      {
+        "type": "image",
+        "src": "assets/placeholder.svg",
+        "alt": "Add project media"
+      },
+      {
+        "type": "image",
+        "src": "assets/cover-placeholder.svg",
+        "alt": "Add project media"
+      }
+    ],
+    "caseStudy": {
+      "title": "Your case study",
+      "idea": "Describe the idea.",
+      "research": "Add your research.",
+      "execution": "Describe the execution.",
+      "tools": "List your tools."
+    }
+  },
+  {
+    "id": "project-12",
+    "title": "Project 12",
+    "description": "Add a project description.",
+    "role": "Your role",
+    "media": [
+      {
+        "type": "image",
+        "src": "assets/placeholder.svg",
+        "alt": "Add project media"
+      },
+      {
+        "type": "image",
+        "src": "assets/cover-placeholder.svg",
+        "alt": "Add project media"
+      }
+    ],
+    "caseStudy": {
+      "title": "Your case study",
+      "idea": "Describe the idea.",
+      "research": "Add your research.",
+      "execution": "Describe the execution.",
+      "tools": "List your tools."
+    }
+  },
+  {
+    "id": "project-13",
+    "title": "Project 13",
+    "description": "Add a project description.",
+    "role": "Your role",
+    "media": [
+      {
+        "type": "image",
+        "src": "assets/placeholder.svg",
+        "alt": "Add project media"
+      },
+      {
+        "type": "image",
+        "src": "assets/cover-placeholder.svg",
+        "alt": "Add project media"
+      }
+    ],
+    "caseStudy": {
+      "title": "Your case study",
+      "idea": "Describe the idea.",
+      "research": "Add your research.",
+      "execution": "Describe the execution.",
+      "tools": "List your tools."
+    }
+  }
+]

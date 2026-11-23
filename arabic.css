@@ -36,3 +36,11 @@ footer{font-size:11px;gap:16px}footer>span:first-child{display:flex;gap:5px;alig
 
 /* Keep Latin brands readable inside right-aligned Arabic cards. */
 .bento-caption h2{direction:rtl;text-align:right;unicode-bidi:isolate}.viewer-head h2{direction:rtl;text-align:right;unicode-bidi:isolate}.practice-heading{text-align:right}.links{color:#d4d4d8}.skill-grid i{background:linear-gradient(270deg,var(--accent) 78%,#e4e4e7 78%)}.home-mini strong{direction:ltr;text-align:right}
+
+.viewer-role-label,.case-grid h4,.viewer-case h3{letter-spacing:0!important}
+.case-grid h4{text-transform:none}
+.viewer-case h3{font-size:24px}
+.viewer-role{font-size:14px}
+.case-grid p{font-size:14px;line-height:1.9}
+
+.deck-hint,.bento-tip{letter-spacing:0!important}
